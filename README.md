@@ -1,2 +1,2 @@
-# remote-control-app-fe
-2023.10.03 ~ 2023.10.08에 수행한 remote control app의 프론트엔드 레포지토리
+# remote-control-app
+원격 컴퓨터에 배포하여 사용하는 제어 애플리케이션
